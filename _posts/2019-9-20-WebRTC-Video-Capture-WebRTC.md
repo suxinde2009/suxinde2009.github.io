@@ -24,7 +24,7 @@ date: 2019-9-20
 
 ![](../assets/img/Resources/WebRTC/webrtc-video-capture-pic9.jpg)
 
-```cpp
+```java
 private VideoTrack createVideoTrack(VideoCapturer capturer) {
     videoSource = factory.createVideoSource(capturer);
     capturer.startCapture(videoWidth, videoHeight, videoFps);
