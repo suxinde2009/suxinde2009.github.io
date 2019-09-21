@@ -4,6 +4,7 @@ post_list: "date"
 toc: false
 home_btn: true
 btn_text: true
+maximize: true
 footer: true
 title: ""
 author: ""
