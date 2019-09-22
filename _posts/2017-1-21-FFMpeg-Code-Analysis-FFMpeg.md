@@ -1,9 +1,9 @@
 ---
 layout: post
-title: FFMpeg源码分析总纲
+title: FFMpeg源码分析索引
 author: suxinde2009
 category: FFMpeg
-date: 2019-9-21
+date: 2017-1-21
 ---
 
 To be continued ...
